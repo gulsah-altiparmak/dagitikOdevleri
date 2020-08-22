@@ -1,0 +1,9 @@
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\bin\Debug\EnUcuzUrun.exe.config
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\bin\Debug\EnUcuzUrun.exe
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\bin\Debug\EnUcuzUrun.pdb
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.Form1.resources
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.exe
+C:\Users\ERDEM\source\repos\EnUcuzUrun\EnUcuzUrun\obj\Debug\EnUcuzUrun.pdb
